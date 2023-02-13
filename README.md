@@ -18,6 +18,9 @@
 
 ## Install
 
+First, configure the `package.json` file.
+
+Then, install dependencies
 ```sh
 npm install
 ```

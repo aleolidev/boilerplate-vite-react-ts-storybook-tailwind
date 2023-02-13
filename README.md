@@ -41,7 +41,7 @@ npm run storybook
 
 * Website: https://aleoli.dev
 * Github: [@inmortalkaktus](https://github.com/inmortalkaktus)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/alejandro-olivares-mompo\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/alejandro-olivares-mompo\/)
+* LinkedIn: [@alejandro-olivares-mompo](https://linkedin.com/in/alejandro-olivares-mompo/)
 
 ## 🤝 Contributing
 
